@@ -1,0 +1,32 @@
+body {
+    color: #393E46;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.top-container {
+    background-color: #6D9886;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: relative;
+    margin-right: 50%;
+    filter: drop-shadow(6px 2px 3px  whitesmoke);
+}
+
+.mountain {
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    filter: drop-shadow(6px 2px 3px  whitesmoke);
+}
